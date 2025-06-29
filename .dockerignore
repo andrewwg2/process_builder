@@ -1,0 +1,11 @@
+*
+!eslint.config.ts
+!index.html
+!package-lock.json
+!package.json
+!public
+!run_tests.sh
+!run_dev.sh
+!src
+!test
+!vite.config.ts
